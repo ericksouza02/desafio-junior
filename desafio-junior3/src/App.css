@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app--window {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+}
+
+.circulo {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+}
